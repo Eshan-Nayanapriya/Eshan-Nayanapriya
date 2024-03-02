@@ -1,14 +1,16 @@
+
+
 <h1 align="center">Hey 👨🏻‍💻, I'm Eshan Nayanapriya</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eshan-nayanapriya&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-nayanapriya" /> </p>
 
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-Developer&font=Pacifico&center=true&width=400&height=40&color=58a6ff&vCenter=true&size=26%15"></a>
 </p>
 
-<h3 align="center">Sri Lankan Web Devotee: Building Beautiful Web Worlds</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eshan-nayanapriya&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-nayanapriya" /> </p>
 
-## <picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
----
+<h3 align="center">Sri Lankan Web Devotee: Building Beautiful Web Worlds</h3>
+
+## <picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px" align="right"></picture>
 - 🎓 Undergraduate at **SLIIT**
 - 🔭 I’m currently working on **Sahan Grinding Mills project**
 
@@ -19,7 +21,8 @@
 - 📫 How to reach me **eshannayanapriyaprofessional@gmail.com**
 
 ---
-<br>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +38,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+<img align="right" height="170px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,c,arduino,cpp,css,discord,illustrator,blender,express,figma,github,html,java,js,kotlin,linux,php,mongodb,mysql,nodejs,py,react,photoshop,vscode&perline=14" />
@@ -45,9 +49,16 @@
 
 
 
+<img align="left" src='https://github-readme-stats.vercel.app/api?username=eshan-nayanapriya&show_icons=true&theme=radical&count_private=true'/>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshan-nayanapriya&show_icons=true&locale=en" alt="eshan-nayanapriya" /></p>-->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostlypanda&count_private=true&theme=radical" alt="mostlypanda" />
+<!--<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-nayanapriya&" alt="eshan-nayanapriya" /></p>-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshan-nayanapriya&show_icons=true&locale=en&layout=compact" alt="eshan-nayanapriya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshan-nayanapriya&show_icons=true&locale=en" alt="eshan-nayanapriya" /></p>
+ ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-nayanapriya&" alt="eshan-nayanapriya" /></p>
+   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+   ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
