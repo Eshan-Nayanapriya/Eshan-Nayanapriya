@@ -83,6 +83,9 @@
 
    [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
- <!--  ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)-->
+ <!--  ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+ 
+ <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+ -->
 
 
