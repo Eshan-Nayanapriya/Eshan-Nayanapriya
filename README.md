@@ -61,15 +61,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=eshan-nayanapriya&show_icons=true&theme=radical&count_private=true'/>
-
+</td>
+ <td width="50%" align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-nayanapriya&count_private=true&theme=radical" alt="eshan-nayanapriya" />
-</div>
+  </td>
+</tr>
+</table>
+
 <br>
-<div align="center">
+
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-nayanapriya&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
-</div>
+
 
 ---
 
