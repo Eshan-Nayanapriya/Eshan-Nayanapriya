@@ -83,6 +83,6 @@
 
    [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-   ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+ <!--  ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)-->
 
 
