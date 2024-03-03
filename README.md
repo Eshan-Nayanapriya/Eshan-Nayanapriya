@@ -72,10 +72,9 @@
 </tr>
 </table>
 
-<br>
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-nayanapriya&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
-
+<div align="center">
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-nayanapriya&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+</div>
 
 ---
 
