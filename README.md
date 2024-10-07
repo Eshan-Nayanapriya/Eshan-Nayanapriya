@@ -73,7 +73,14 @@
 </table>
 
 <div align="center">
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-nayanapriya&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+  <!-- Most Used Languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-nayanapriya&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshan-nayanapriya&show_icons=true&theme=radical" alt="GitHub Stats">
+
+  <!-- Streak Stats -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-nayanapriya&theme=radical" alt="GitHub Streak">
 </div>
 
 ---
