@@ -7,10 +7,8 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Web%20Developer;Full%20Stack-Developer;Mobile-App%20Developer&font=Pacifico&center=true&width=400&height=40&color=58a6ff&vCenter=true&size=26%15"></a>
 </p>
 
-<h3 align="center">Software Developer : Building Beautiful Web Worlds</h3>
-
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></p>
-
+</br>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
