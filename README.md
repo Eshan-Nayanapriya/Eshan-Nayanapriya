@@ -4,10 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eshan-nayanapriya&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-nayanapriya" /> </p>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-Developer&font=Pacifico&center=true&width=400&height=40&color=58a6ff&vCenter=true&size=26%15"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Web%20Developer;Full%20Stack-Developer;Mobile-App%20Developer&font=Pacifico&center=true&width=400&height=40&color=58a6ff&vCenter=true&size=26%15"></a>
 </p>
 
-<h3 align="center">Sri Lankan Web Devotee: Building Beautiful Web Worlds</h3>
+<h3 align="center">Software Developer : Building Beautiful Web Worlds</h3>
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></p>
 
@@ -17,9 +17,9 @@
 
 - 🎓 I’m an Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently following **Software engineering specializaion**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **eshannayanapriyaprofessional@gmail.com**
   
