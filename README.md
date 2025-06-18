@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eshan-nayanapriya&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-nayanapriya" /> </p>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Web%20Developer;Full%20Stack-Developer;Mobile-App%20Developer&font=Pacifico&center=true&width=400&height=40&color=58a6ff&vCenter=true&size=26%15"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Web%20Developer;Full%20Stack%20Developer;Mobile-App%20Developer&font=Pacifico&center=true&width=400&height=40&color=58a6ff&vCenter=true&size=26%15"></a>
 </p>
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></p>
